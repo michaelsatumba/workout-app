@@ -1,12 +1,15 @@
 import Head from 'next/head';
 import Image from 'next/image';
-import styles from '../styles/Home.module.css';
+import Gallery from '../components/Gallery';
+import Header from '../components/Header';
+import Poster from '../components/Poster';
 
 export default function Home() {
 	return (
 		<div>
-			<h1 className="text-3xl font-bold underline">Hello world!</h1>
-			<p>Hello world</p>
+			<Header />
+			<Gallery />
+			<Poster />
 		</div>
 	);
 }
