@@ -7,9 +7,9 @@ function Poster() {
 			<div>
 				<p className="font-bold text-3xl py-5">Project Poster</p>
 			</div>
-			<div className="h-32 w-32 relative">
+			<div className="h-96 w-64 relative">
 				<Image
-					src="/image1.webp"
+					src="/workout-app.png"
 					alt="main image"
 					layout="fill"
 					objectFit="cover"
