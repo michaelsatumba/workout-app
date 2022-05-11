@@ -20,10 +20,6 @@ function NavBar() {
 			<Link href="/Research">
 				<p>Design Research</p>
 			</Link>
-
-			<Link href="/Prototype">
-				<p>Design Prototyping</p>
-			</Link>
 		</div>
 	);
 }
