@@ -17,7 +17,7 @@ function Gallery() {
 							objectFit="cover"
 						/>
 					</div>
-					<p>Person 1</p>
+					<p>Michael Satumba</p>
 				</div>
 				<div>
 					<div className="h-20 w-20 relative">
@@ -28,7 +28,7 @@ function Gallery() {
 							objectFit="cover"
 						/>
 					</div>
-					<p>Person 2</p>
+					<p>Damon Chen</p>
 				</div>
 				<div>
 					<div className="h-20 w-20 relative">
@@ -39,7 +39,7 @@ function Gallery() {
 							objectFit="cover"
 						/>
 					</div>
-					<p>Person 3</p>
+					<p>Anmol Burmy</p>
 				</div>
 				<div>
 					<div className="h-20 w-20 relative">
@@ -50,7 +50,7 @@ function Gallery() {
 							objectFit="cover"
 						/>
 					</div>
-					<p>Person 4</p>
+					<p>Jaime Walker</p>
 				</div>
 				<div>
 					<div className="h-20 w-20 relative">
@@ -61,7 +61,7 @@ function Gallery() {
 							objectFit="cover"
 						/>
 					</div>
-					<p>Person 5</p>
+					<p>Siu Lam Ng</p>
 				</div>
 			</div>
 		</div>
