@@ -1,52 +1,80 @@
-import React from 'react';
-import Header from '../components/Header';
-import NavBar from '../components/NavBar';
+import React from "react";
+import NavBar from "../components/NavBar";
 
 function Research() {
-	return (
-		<div>
-			<Header />
-			<NavBar />
+    return (
+        <div>
+            <NavBar />
 
-			<div className="flex flex-col items-center">
-				<p className="font-medium text-3xl">Design Research</p>
+            <div className="grid grid-rows-4 grid-flow-col gap-4 my-10">
+                <div className="p-10">
+                    <p className="font-medium text-3xl my-10">Design Research</p>
 
-				<p>Lorem ipsum dolor sit amet, consectetur adip</p>
+                    <p className="">
+                        For our design research we sought out friends, family and close acquaintances and had them fill out a
+                        survey. In terms of data we wanted to get we wanted both quantitative and qualitative data. Quantitative
+                        data such as if people prefer working out alone or with people, if people use workout apps and such. Our
+                        qualitative data would include something like having the participant describe what their ideal workout app
+                        would be. After gathering this data using Google forms we would organize it on a Miro Board and discuss it
+                        with each other to find any patterns or things of interest. We would also use the data Google Forms gave
+                        us to give us a general quantitative idea of our data, such as what percent of participants prefers to
+                        workout alone, or what percent of participants would like fitness trainers. After developing a prototype
+                        using the data we would then send it to some users to test it. We would ask the user to record themselves
+                        using our website to see how they interact with the prototype. With the recording we would find areas
+                        which the user struggled with in our prototype in hopes of improving it.
+                    </p>
+                </div>
 
-				<p className="font-medium text-3xl">Problem Overview</p>
+                <div className="p-10">
+                    <p className="font-medium text-3xl my-10">Problem Overview</p>
 
-				<p>Lorem ipsum dolor sit amet, consectetur adip</p>
+                    <p></p>
+                </div>
 
-				<p className="font-medium text-3xl">Research Methods</p>
+                <div className="p-10">
+                    <p className="font-medium text-3xl my-10">Research Methods</p>
 
-				<p>Lorem ipsum dolor sit amet, consectetur adip</p>
+                    <p>Lorem ipsum dolor sit amet, consectetur adip</p>
+                </div>
 
-				<p className="font-medium text-3xl">Goals</p>
+                <div className="p-10">
+                    <p className="font-medium text-3xl my-10">Goals</p>
 
-				<p>Lorem ipsum dolor sit amet, consectetur adip</p>
+                    <p>Lorem ipsum dolor sit amet, consectetur adip</p>
+                </div>
 
-				<p className="font-medium text-3xl">Participants</p>
+                <div className="p-10">
+                    <p className="font-medium text-3xl my-10">Participants</p>
 
-				<p>Lorem ipsum dolor sit amet, consectetur adip</p>
+                    <p></p>
+                </div>
 
-				<p className="font-medium text-3xl">Results & Themes</p>
+                <div className="p-10">
+                    <p className="font-medium text-3xl my-10">Results & Themes</p>
 
-				<p>Lorem ipsum dolor sit amet, consectetur adip</p>
+                    <p>Lorem ipsum dolor sit amet, consectetur adip</p>
+                </div>
 
-				<p className="font-medium text-3xl">Identified Tasks</p>
+                <div className="p-10">
+                    <p className="font-medium text-3xl my-10">Identified Tasks</p>
 
-				<p>Lorem ipsum dolor sit amet, consectetur adip</p>
+                    <p>Lorem ipsum dolor sit amet, consectetur adip</p>
+                </div>
 
-				<p className="font-medium text-3xl">Proposal Sketches</p>
+                <div className="p-10">
+                    <p className="font-medium text-3xl my-10">Proposal Sketches</p>
 
-				<p>Lorem ipsum dolor sit amet, consectetur adip</p>
+                    <p>Lorem ipsum dolor sit amet, consectetur adip</p>
+                </div>
 
-				<p className="font-medium text-3xl">Mobile Application</p>
+                <div className="p-10">
+                    <p className="font-medium text-3xl my-10">Mobile Application</p>
 
-				<p>Lorem ipsum dolor sit amet, consectetur adip</p>
-			</div>
-		</div>
-	);
+                    <p>Lorem ipsum dolor sit amet, consectetur adip</p>
+                </div>
+            </div>
+        </div>
+    );
 }
 
 export default Research;

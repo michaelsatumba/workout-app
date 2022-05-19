@@ -1,20 +1,83 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@700&display=swap");
 html,
 body {
-	padding: 0;
-	margin: 0;
-	font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-		Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+    padding: 0;
+    margin: 0;
+    font-family: "Inter", sans-serif;
+    color: black;
 }
 
 a {
-	color: inherit;
-	text-decoration: none;
+    color: inherit;
+    text-decoration: none;
 }
 
 * {
-	box-sizing: border-box;
+    box-sizing: border-box;
+}
+/* Navbar */
+.navbar {
+    background-color: #ffffff;
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    height: 90px;
+    z-index: 150;
+    flex-direction: row;
+    border-bottom: 2px dashed black;
 }
 
+.navbar-items {
+    display: flex;
+    margin-left: auto;
+    padding-right: 160px;
+}
+
+.brand {
+    display: flex;
+    flex-direction: row;
+    padding-left: 150px;
+}
+
+.brand-title {
+    display: flex;
+    font-size: 22px;
+    align-items: center;
+    justify-content: center;
+}
+
+.logo {
+    display: inline-block;
+    background: url(/public/logo.png);
+    background-size: 100% 100%;
+    height: 70px;
+    width: 70px;
+    margin: 0px 15px 0px 15px;
+    vertical-align: top;
+}
+
+.main-nav {
+    display: flex;
+    flex-direction: row;
+}
+
+.main-nav li {
+    margin-left: 60px;
+    display: flex;
+    cursor: pointer;
+}
+
+.main-nav li:hover {
+    color: #6e7492;
+}
+
+.poster {
+    width: 500px;
+}
+img {
+    border: 2px dashed black !important;
+}
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
