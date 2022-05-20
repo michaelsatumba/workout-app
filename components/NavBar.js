@@ -6,9 +6,10 @@ function NavBar() {
     return (
         <div className="navbar">
             <div className="brand">
-                <Link href="/" className="logo">
-                    Workout App
-                </Link>
+                <div className="h-20 w-20 relative">
+                    <Image src="/logo.png" alt="main image" layout="fill" objectFit="cover" className="logo" />
+                </div>
+                <Link href="/">FitLink</Link>
             </div>
             <nav className="navbar-items">
                 <ul className="main-nav">
@@ -20,6 +21,11 @@ function NavBar() {
                     <li>
                         <Link href="/Research">
                             <p>Design Research</p>
+                        </Link>
+                    </li>
+                    <li>
+                        <Link href="/Demo">
+                            <p>Demo</p>
                         </Link>
                     </li>
                 </ul>
