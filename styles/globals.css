@@ -58,14 +58,52 @@ a {
 }
 
 .poster {
-    width: 500px;
+    width: 900px;
 }
 img {
     border: 2px dashed black !important;
 }
+
+.demo-cont {
+    height: 100%;
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
 .demo,
-.logo {
+.logo,
+.demo-info-img {
     border: 0px dashed black !important;
+}
+
+.demo-info {
+    width: 45%;
+    height: 75vh;
+    overflow-y: scroll;
+    padding: 20px;
+}
+.demo-info-cont {
+    padding: 20px;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: space-between;
+    border: 2px dashed black !important;
+}
+.demo-info-wrap {
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.figma {
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+.research {
+    /* display: flex; */
+    /* flex-direction: row; */
 }
 @tailwind base;
 @tailwind components;
