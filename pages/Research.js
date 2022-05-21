@@ -150,7 +150,7 @@ function Research() {
                             another state. Another thing about designing is that you should make anything that users expect to be
                             able to click on interactable. Don’t give users text boxes or buttons that don’t do anything otherwise
                             users will think the app is unresponsive, or get confused wondering why the buttons don’t work. That
-                            would what we would do in the future from what we have learned from designing our fitness app.
+                            would what we would do in the future from what we have learned from designing our Fitness App.
                         </p>
                     </div>
                 </div>
