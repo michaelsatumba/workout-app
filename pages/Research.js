@@ -125,7 +125,7 @@ function Research() {
                                 From what we learned in these tests our prototype has a lot of places where users can get stuck
                                 without any way to navigate back. Users also expect lots of things to be able to be clicked on,
                                 which we do not have. We also realize that there was no way to chat between the users despite
-                                being one of that main feature of the App.
+                                being one of the main features of the App.
                             </div>
                             <br />
                             <br />
@@ -150,7 +150,7 @@ function Research() {
                             another state. Another thing about designing is that you should make anything that users expect to be
                             able to click on interactable. Don’t give users text boxes or buttons that don’t do anything otherwise
                             users will think the app is unresponsive, or get confused wondering why the buttons don’t work. That
-                            would what we would do in the future from what we have learned from designing our fitness app.
+                            would be what we would do in the future from what we have learned from designing our Fitness App.
                         </p>
                     </div>
                 </div>
