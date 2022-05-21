@@ -132,9 +132,8 @@ function Research() {
                             The general feedback of participants is that they got stuck on some pages without knowing what to do
                             next a lot of times, requiring a lot of external help. Before there was also no way to perform the
                             sign in tasks because there was no way to access the page. So changes we made was to set the sign up
-                            page to the homepage of the prototype. We also need to make a logout page so we can access back the
-                            sign up pages. We think the general takeaway here is that the prototype is really early and needs a
-                            lot of work, and a lot more methods of navigation to other pages.
+                            page to the homepage of the prototype. We also made a logout page so we can access back the sign up
+                            pages. Overall, these tests ans data helped us to find flaws of our App that we might have overlooked.
                         </div>
                     </div>
 
