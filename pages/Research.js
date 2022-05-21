@@ -53,12 +53,12 @@ function Research() {
                                 Google survey link to them to fill out on their own time. In general of the demographic of our
                                 survey, we have 53% respondents at the age of 19-22, with the other 47% being older than that. We
                                 have 69.2% males and 30.8% females.
-                                <img src="/age.png" alt="funny animation GIF" className="demo-info-img" width="48%" />
+                                <img src="/age.png" alt="funny animation GIF" className="demo-info-img" width="500vw" />
                             </div>
                             <br />
                             <br />
                             <div className="research-info">
-                                <img src="/life.png" alt="funny animation GIF" className="demo-info-img" width="48%" />
+                                <img src="/life.png" alt="funny animation GIF" className="demo-info-img" width="500px" />
                                 For our findings, we learned from our survey that about 70% of the respondents could be living a
                                 much more healthier and active lifestyle. This number tells us how Covid and being in the pandemic
                                 has affected the lifestyle of the people. Not being able to go out and not having something to
@@ -77,8 +77,8 @@ function Research() {
                             <br />
                             <br />
                             <div className="research-info">
-                                <img src="/track.png" alt="funny animation GIF" className="demo-info-img" width="48%" />
-                                <img src="/life.png" alt="funny animation GIF" className="demo-info-img" width="48%" />
+                                <img src="/track.png" alt="funny animation GIF" className="demo-info-img" width="500px" />
+                                <img src="/life.png" alt="funny animation GIF" className="demo-info-img" width="500px" />
                             </div>
                             <br />
                             <br />
@@ -91,12 +91,12 @@ function Research() {
                                 complete a certain task as a part of his/her workout. The user can also confirm the workout
                                 through the reminder if he/she worked out or not so that the app can keep a better track of their
                                 workout.
-                                <img src="/ideal.png" alt="funny animation GIF" className="demo-info-img" width="48%" />
+                                <img src="/ideal.png" alt="funny animation GIF" className="demo-info-img" width="500px" />
                             </div>
                             <br />
                             <br />
                             <div className="research-info">
-                                <img src="/miro.png" alt="funny animation GIF" className="demo-info-img" width="50%" />
+                                <img src="/miro.png" alt="funny animation GIF" className="demo-info-img" width="600px" />
                                 After gathering this data using Google forms we would organize it on a Miro Board and discuss it
                                 with each other to find any patterns or things of interest. We would also use the data Google
                                 Forms gave us to give us a general quantitative idea of our data, such as what percent of
@@ -118,10 +118,10 @@ function Research() {
                                 buttons. Getting stuck like this had some testers not able to proceed with the other tasks
                                 essentially soft locking them. There are also plenty of pages where the user would expect text or
                                 some places to be clickable, such as profile icon.
-                                <img src="/resp.png" alt="funny animation GIF" className="demo-info-img" width="25%" />
+                                <img src="/resp.png" alt="funny animation GIF" className="demo-info-img" width="300px" />
                             </div>
                             <div className="research-info">
-                                <img src="/chat1.png" alt="funny animation GIF" className="demo-info-img" width="25%" />
+                                <img src="/chat1.png" alt="funny animation GIF" className="demo-info-img" width="300px" />
                                 From what we learned in these tests our prototype has a lot of places where users can get stuck
                                 without any way to navigate back. Users also expect lots of things to be able to be clicked on,
                                 which we do not have. We also realize that there was no way to chat between the users despite

@@ -106,9 +106,12 @@ img {
     justify-content: center;
 }
 .research {
-    /* display: flex; */
-    /* flex-direction: row; */
-    width: 65%;
+    width: 70vw;
+}
+@media only screen and (max-width: 1240px) {
+    .research {
+        width: 100vw;
+    }
 }
 .research-info {
     display: flex;

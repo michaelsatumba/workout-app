@@ -25,7 +25,7 @@ export default function Home() {
                                 scroll to view more posts.
                             </p>
                         </div>
-                        <img src="/Feed.png" alt="funny animation GIF" className="demo-info-img" width="27%" />
+                        <img src="/Feed.png" alt="funny animation GIF" className="demo-info-img" width="200px" />
                     </div>
 
                     <div className="demo-info-cont">
@@ -37,7 +37,7 @@ export default function Home() {
                                 to keep track of the days they missed to workout.
                             </p>
                         </div>
-                        <img src="/Calender.png" alt="funny animation GIF" className="demo-info-img" width="27%" />
+                        <img src="/Calender.png" alt="funny animation GIF" className="demo-info-img" width="200px" />
                     </div>
 
                     <div className="demo-info-cont">
@@ -50,7 +50,7 @@ export default function Home() {
                                 and diet plans compared to the more experienced users
                             </p>
                         </div>
-                        <img src="/Discover.png" alt="funny animation GIF" className="demo-info-img" width="27%" />
+                        <img src="/Discover.png" alt="funny animation GIF" className="demo-info-img" width="200px" />
                     </div>
 
                     <div className="demo-info-cont">
@@ -64,7 +64,7 @@ export default function Home() {
                                 particular day
                             </p>
                         </div>
-                        <img src="/Chat.png" alt="funny animation GIF" className="demo-info-img" width="27%" />
+                        <img src="/Chat.png" alt="funny animation GIF" className="demo-info-img" width="200px" />
                     </div>
                 </div>
             </div>
