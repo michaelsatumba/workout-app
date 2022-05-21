@@ -133,7 +133,7 @@ function Research() {
                             next a lot of times, requiring a lot of external help. Before there was also no way to perform the
                             sign in tasks because there was no way to access the page. So changes we made was to set the sign up
                             page to the homepage of the prototype. We also made a logout page so we can access back the sign up
-                            pages. Overall, these tests ans data helped us to find flaws of our App that we might have overlooked.
+                            pages. Overall, these tests and data helped us to find flaws of our App that we might have overlooked.
                         </div>
                     </div>
 
